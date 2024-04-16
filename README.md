@@ -20,6 +20,11 @@ This is a transnational data set which contains all the transactions occurring b
 - **CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - **Country**: Country name. Nominal, the name of the country where each customer resides.
 
+### Segmentation
+
+<img width="662" alt="R9" src="https://github.com/nguyenvulong0509/RFM-analysis/assets/116187817/c80952cb-ca46-4741-b129-934850206b1c">
+
+
 ### Project's details
 For more details about data processing and wrangling, please see the jupyter notebook attached in this repository. For now, I will demonstrate the data visualisations, insights and recommendations.
 
